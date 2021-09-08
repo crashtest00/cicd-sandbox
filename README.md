@@ -5,6 +5,6 @@ Playing around with CI/CD &amp; Docker containers
 * [ ] Test CI/CD on Django experiment
 * [ ] Put react-native experiment in a docker container
 * [ ] Test CI/CD on ReactNat experiment
-* [ ] Put both of those containers in a container
+* [ ] One line app building from scratch (https://jpetazzo.github.io/2015/09/03/do-not-use-docker-in-docker-for-ci/) Is this a script? Something else?
 * [ ] Do 2 release tests to ensure PROD is updated 
 * [ ] Abstract the whole mess to a simple easy launchable app framework
