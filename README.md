@@ -3,6 +3,7 @@
 https://opensource.com/article/19/4/devops-pipeline
 
 Dev machine dependencies:
+* VS Code
 * git
 * ghostwriter
 * emacs
