@@ -2,6 +2,12 @@
 
 https://opensource.com/article/19/4/devops-pipeline
 
+Dev machine dependencies:
+* git
+* ghostwriter
+* emacs
+* docker
+
 Playing around with CI/CD &amp; Docker containers
 * [ ] Figure out how to abstract secrets to safe location [5 practical tips](https://www.youtube.com/watch?v=JE2PJbbpjsM&ab_channel=DevOpsDirective)
 * [ ] Put django experiment in a docker container
