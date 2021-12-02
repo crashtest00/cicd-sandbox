@@ -20,7 +20,7 @@ Playing around with CI/CD &amp; Docker containers
 * [ ] Abstract the whole mess to a simple easy launchable app framework
 
 ## 11/13/2021
-* Changing directions again to follow [this tutorial](https://www.youtube.com/watch?v=_CBYbEGvxYY)
+* Changing directions again to follow [this tutorial](https://www.youtube.com/watch?v=fPtGgOJykTM)
 * Plan is to develop from scratch in a docker container. Paradigm will be that the mono repo will live in a folder and code will be developed inside docker containers to avoid sys configs from creating additional headaches. The docker container will be hosted in the cloud and synced. If Docker can handle the env reqs, package.json should be able to handle most/everything else.
 
 ## 11/12/2021 Developing React Native Web in Container Notes
