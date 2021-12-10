@@ -3,11 +3,13 @@
 https://opensource.com/article/19/4/devops-pipeline
 
 Dev machine dependencies:
-* VS Code
-* git
-* ghostwriter
-* emacs
-* docker
+* [VS Code](https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/#installing-visual-studio-code-with-apt)
+* git `apt-get install git`
+* ghostwriter `apt-get install ghostwriter` 
+* [pandoc](https://github.com/jgm/pandoc/releases/tag/2.16.2) Running v2.16.2
+* emacs `apt-get install emacs`
+* [docker](https://docs.docker.com/engine/install/ubuntu/#installation-methods)
+* [Update Docker perms](https://docs.docker.com/engine/install/linux-postinstall/)
 
 Playing around with CI/CD &amp; Docker containers
 * [ ] Figure out how to abstract secrets to safe location [5 practical tips](https://www.youtube.com/watch?v=JE2PJbbpjsM&ab_channel=DevOpsDirective)
